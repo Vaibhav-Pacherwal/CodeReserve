@@ -53,15 +53,15 @@ CREATE TABLE codes (
 ### 🏠 Homepage
 Displays all saved snippets with options to update or delete.
 
-![Homepage](public/homepage.png)
+![Homepage](homepage.png)
 
 ### ➕ Add Snippet Page
 Simple form to add new code snippets.
 
-![Add Snippet](public/adding.png)
+![Add Snippet](adding.png)
 
 ### ✏️ Update Snippet Page
 Edit your existing code snippet.
 
-![Update Snippet](public/updatecode.png)
+![Update Snippet](updatecode.png)
 
