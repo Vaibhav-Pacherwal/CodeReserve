@@ -47,21 +47,3 @@ CREATE TABLE codes (
   title VARCHAR(255) NOT NULL,
   code TEXT NOT NULL,
 );
-
-## 📸 Screenshots
-
-### 🏠 Homepage
-Displays all saved snippets with options to update or delete.
-
-![Homepage](homepage.png)
-
-### ➕ Add Snippet Page
-Simple form to add new code snippets.
-
-![Add Snippet](adding.png)
-
-### ✏️ Update Snippet Page
-Edit your existing code snippet.
-
-![Update Snippet](updatecode.png)
-
